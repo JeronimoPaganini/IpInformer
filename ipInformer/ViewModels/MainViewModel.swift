@@ -22,7 +22,7 @@ final class MainViewModel: ObservableObject {
   }
   
   func search(ip: String = "") {
-    cancellationToken = ApiQuery.get(ip: ip)
+    cancellationToken = ApiQuery.getInfo(by: ip)
       .mapError({ (error) -> Error in
         self.errorMessage = error.localizedDescription
         self.showError = true

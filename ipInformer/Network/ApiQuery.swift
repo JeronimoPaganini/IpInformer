@@ -11,7 +11,7 @@ import Combine
 final class ApiQuery {
   private static let requestHelper = RequestHelper()
   
-  static func get(ip: String) -> AnyPublisher<IpModel, Error> {
+  static func getInfo(by ip: String) -> AnyPublisher<IpModel, Error> {
     let fields: [IpApi.GraphQLField] = [.city,
                   .country,
                   .region,
