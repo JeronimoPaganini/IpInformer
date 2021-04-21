@@ -68,6 +68,7 @@
 		32544F77262FD06100A1410F /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
 		32544F7A262FD0F800A1410F /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
 		32544F7F262FDDE800A1410F /* IpApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IpApi.swift; sourceTree = "<group>"; };
+		32544F8E262FF04A00A1410F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +92,7 @@
 		3232FA03262F4A24003357F7 = {
 			isa = PBXGroup;
 			children = (
+				32544F8E262FF04A00A1410F /* README.md */,
 				3232FA08262F4A24003357F7 /* ipInformer */,
 				3232FA12262F4A25003357F7 /* iOS */,
 				3232FA23262F4A25003357F7 /* Tests iOS */,
