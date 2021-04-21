@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  ipInformer
+
+  Created by Farid Shabonov on 21.04.2021.
+  
+*/
+
+"ipFieldPlaceholder" = "Skriv inn ip...";
+"error" = "Feil";
+"country" = "Land";
+"countryCode" = "Landskode";
+"region" = "Region";
+"regionName" = "Regionens navn";
+"city" = "By";
+"zip" = "Glidelås";
+"timezone" = "Tidssone";
+"isp" = "ISP";
+"as" = "AS";
+"ipIsNotValid" = "IP er ikke gyldig";
+"valuta" = "Valuta";

@@ -9,10 +9,28 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>ipInformer (macOS).xcscheme_^#shared#^_</key>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3232FA0F262F4A25003357F7</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3232FA17262F4A25003357F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3232FA1F262F4A25003357F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3232FA2A262F4A25003357F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

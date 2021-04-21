@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  ipInformer
+
+  Created by Farid Shabonov on 21.04.2021.
+  
+*/
+
+"ipFieldPlaceholder" = "Впишіть ip...";
+"error" = "Помилка";
+"country" = "Країна";
+"countryCode" = "Код країни";
+"region" = "Номер регіону";
+"regionName" = "Област'";
+"city" = "Город";
+"zip" = "Поштовий індекс";
+"timezone" = "Часовий пояс";
+"isp" = "Провайдер";
+"as" = "Найменування мережі";
+"ipIsNotValid" = "Не правильний IP адрес";
+"currency" = "Валюта";
